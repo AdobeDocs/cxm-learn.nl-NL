@@ -4,8 +4,9 @@ breadcrumb-title: Handleiding met gegevensgestuurde besturingsmodellen
 user-guide-description: Bekijk deze video's voor meer informatie over het gebruik van het Adobe Data-Driven Operating Model.
 solution: Experience Cloud
 type: Zelfstudie
+hide: true
 translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
