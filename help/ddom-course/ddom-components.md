@@ -1,14 +1,13 @@
 ---
 title: Drie belangrijke pijlers van het DDOM
-description: 'Diveer dieper in de drie belangrijkste pijlers van DDOM (Gegevens, KPIs en Proces/Org). '
-translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+description: Diveer dieper in de drie belangrijkste pijlers van DDOM (Gegevens, KPIs en Proces/Org).
+exl-id: d39f9525-2209-4cfc-94c9-474b28f2253f
+source-git-commit: 5a22a4f547b02989e175a15598516b80d7711cac
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
-
 
 # Drie belangrijke pijlers van het DDOM
 
