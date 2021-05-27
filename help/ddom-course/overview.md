@@ -2,14 +2,13 @@
 title: Adobe-gegevensgestuurd besturingssysteem
 description: Dit is het artikeloverzicht.
 keywords: DDOM, digitale transformatie
-translation-type: tm+mt
-source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
+exl-id: fe876275-aa10-418a-af3f-0ac078640433
+source-git-commit: 5a22a4f547b02989e175a15598516b80d7711cac
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # Adobe-gegevensgestuurd besturingssysteem (DDOM)
 
