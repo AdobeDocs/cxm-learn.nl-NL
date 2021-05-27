@@ -5,16 +5,15 @@ user-guide-description: Bekijk deze video's voor meer informatie over het gebrui
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 
-# Handleiding met gegevensgestuurde besturingsmodellen {#ddom}
+# Adobe op gegevens gebaseerde handleiding {#ddom}
 
 + [Overzicht](overview.md)
 + [Inleiding tot DDOM](ddom-introduction.md)
