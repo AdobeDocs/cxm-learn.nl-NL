@@ -1,29 +1,16 @@
 ---
-source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
+source-git-commit: 5b705a893aeadab40ac26e824620b3a6f31a6fec
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # MIT-licentie
 
-© Copyright 2018 Adobe. Alle rechten voorbehouden.
+© Copyright 2021 Adobe. All rights reserved.
 
-De machtiging wordt kosteloos verleend aan eenieder die een afschrift ontvangt
-van deze software en bijbehorende documentatiebestanden (de &quot;Software&quot;), voor de verwerking van
-in de Software zonder beperking, met inbegrip van zonder beperking van de rechten
-gebruiken, kopiëren, wijzigen, samenvoegen, publiceren, distribueren, sublicentiëren en/of verkopen
-kopieën van de software, en om personen aan wie de software is toe te staan
-daartoe onder de volgende voorwaarden zijn verplicht:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-De bovenstaande copyrightkennisgeving en deze machtigingskennisgeving worden in alle
-kopieën of belangrijke delen van de software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-DE SOFTWARE WORDT &quot;AS IS&quot; VERSTREKT, ZONDER ENIGE GARANTIE, EXPRESS OF
-GEÏMPLICEERD, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN MERKANTABILITEIT,
-GESCHIKTHEID VOOR EEN BEPAALD DOEL EN NIET-INBREUK. IN GEEN GEVAL DIENT DE
-AUTEURS OF HOUDERS VAN COPYRIGHT ZIJN AANSPRAKELIJK VOOR AANVRAGEN, SCHADE OF ANDERE
-AANSPRAKELIJKHEID, ONGEACHT IN HET KADER VAN EEN CONTRACT, TORT OF ANDERS, DIE VOORTVLOEIT UIT:
-UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE DEALINGS IN DE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
