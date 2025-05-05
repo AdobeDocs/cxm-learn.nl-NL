@@ -18,7 +18,7 @@ Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Als u deelne
 
 ## Documentatie voor de bijdragershandleiding
 
-Zie de [Handleiding voor bijdragers](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Zie de [Handleiding voor bijdragers](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=nl-NL).
 
 ## Hebt u een vraag?
 
